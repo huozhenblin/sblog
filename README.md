@@ -118,3 +118,4 @@ java -jar plumemo-v1.1.0.jar --MYSQL_USERNAME=root  --MYSQL_PASSWORD=password  -
 <img src="https://cos.nosum.cn/preview/helloblog-admin/helloblog-admin-preview%20%286%29.png" width="600"/>
 
 <img src="https://cos.nosum.cn/preview/helloblog-admin/helloblog-admin-preview%20%287%29.png" width="600"/>
+《ggggg》》
