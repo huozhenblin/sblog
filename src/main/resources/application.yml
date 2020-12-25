@@ -7,7 +7,7 @@ spring:
     active: dev
   datasource:
     name: plumemo
-    url:  ${MYSQL_DATABASE:jdbc:mysql://127.0.0.1:3306/plumemo?useSSL=false&characterEncoding=utf8}
+    url:  ${MYSQL_DATABASE:jdbc:mysql://127.0.0.1:3306/finalblog?useSSL=false&characterEncoding=utf8}
     username: ${MYSQL_USERNAME:root}
     password: ${MYSQL_PASSWORD:root}
     type: com.zaxxer.hikari.HikariDataSource
